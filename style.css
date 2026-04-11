@@ -8,6 +8,9 @@ body {
   font-family: sans-serif;
   padding: 20px;
 }
+.section{
+  margin-bottom: 25px;
+}
 .resume-container{
   width: 80%;
   background-color: white;
@@ -25,4 +28,16 @@ hr{
   background-color: #3498db;
   border-color: #3498db;
 }
+.project-item{
+  margin-bottom: 15px;
+}
+.project-title{
+  font-weight: bold;
+  color: #2c3e50;
+}
+.project-desc{
+  color: #34495e;
+  margin-left: 10px;
+}
+
 
