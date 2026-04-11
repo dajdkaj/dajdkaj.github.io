@@ -4,6 +4,7 @@ body {
   background-attachment:fixed;
   background-position:center center;
   background-size:cover;
+  background-color:blue;
   font-family: sans-serif;
   padding: 20px;
 }
