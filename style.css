@@ -49,7 +49,10 @@ hr{
   margin-top: 10px;
   margin-left: 10px;
 }
+
 p{
   color: pink;
+  font-size: 14px; 
+  font-family: Impact;
 }
 
