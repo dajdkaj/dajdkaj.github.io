@@ -10,9 +10,14 @@ body {
 }
 .resume-container{
   width: 80%;
-  background-color: brightgreen;
+  background-color: white;
   margin-left: auto;
   margin-right: auto;
   padding: 20px;
   max-width: 500px;
 }
+h2{
+  color: #3498db;
+  margin-bottom: 10px;
+}
+
